@@ -7,6 +7,10 @@
 html{
     scroll-behavior: smooth;
 }
+p{
+    line-height: 1.6;
+     word-spacing: 0.3cm;
+}
 body{
     background: #000000;
     color: #fff;
